@@ -67,7 +67,6 @@ io.on('connection', (socket) => {
         }
     });
 
-
 });
 
 // Determine the winner of the game
